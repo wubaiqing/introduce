@@ -16,7 +16,7 @@
 
 期望应聘的岗位：总监、研发经理、架构师。
 
-面试经历：在公司面试过约 4000 人。
+招聘经历：面试过约 4000 人。
 
 ## 产品能力
 
@@ -34,6 +34,8 @@
 
 ### 前端领域
 
+擅长 Vue 框架能说出 100 多项 API 所对应的使用场景，参与过 `Umi`、`Umi-Next`、`QianKun（微前端）`、`Ant Design Vue`、`Element`、`Vue-Next`、`React-DND`、`React-ID-Swiper`、`countUp` 等开源代码奉献；可以参考 [GitHub](https://github.com/wubaiqing) 查看奉献的记录。
+
 了解约 1300+ 类库，并把这些类库整理为一个开源项目`每日时报`，目前 GitHub 1.5K Star。
 
 主导公司开源项目，禧云生态：
@@ -42,16 +44,15 @@ https://github.com/xiyun-international
 生态规划大致如下：
 | 目的 | 产品类型 | 链接 |
 | ------ | ---- | --- |
-| 通过注解的方式，声明路由 | Webpack Plugin | [查看](https://github.com/xiyun-international/vue-route-webpack-plugin)|
-| 支持生成常规后台、微前端、iFrame 的应用模板 | 脚手架 | [查看](https://github.com/xiyun-international/antd-ui-template) |
-| VSCode 插件，生成中台列表、创建等页面 | VSCode 插件 开发提效| [查看](https://github.com/xiyun-international/vscode-extends) |
-| 所有前端工程引用一个依赖包，做大而全的依赖管理 | 统一依赖库 | [查看](https://github.com/xiyun-international/deps) |
-| 中台类产品，样式统一 | UI 库 | [查看](https://github.com/xiyun-international/xy/tree/master/packages/ant-design-ui) |
-| 前端作战手册，技术沉淀，让团队规范化 | 文档 | [查看](https://xiyun-international.github.io/standard/share.html) |
+| 通过注解的方式，在 Vue 文件中声明路由 | Webpack Plugin | [查看](https://github.com/xiyun-international/vue-route-webpack-plugin)|
+| 脚手架自动生成常规后台、微前端、iFrame 的应用模板 | 脚手架 | [查看](https://github.com/xiyun-international/antd-ui-template) |
+| VSCode 插件，生成中台常用的列表、创建等页面 | VSCode 插件 开发提效| [查看](https://github.com/xiyun-international/vscode-extends) |
+| 所有前端工程引用一个依赖包，做大而全的集中化依赖管理 | 统一依赖库 | [查看](https://github.com/xiyun-international/deps) |
+| 中台类产品样式统一 | UI 库 | [查看](https://github.com/xiyun-international/xy/tree/master/packages/ant-design-ui) |
+| 前端作战手册，为技术做沉淀团队更加规范化 | 文档 | [查看](https://xiyun-international.github.io/standard/share.html) |
 | Chrome 插件，在 RAP 文档中注入生成 Mock 代码功能| 提效 | [查看](https://github.com/xiyun-international/chrome-plugin) |
 | 区块平台，跨公司协作，开发后的组件共享 | 组件共享 | [规划](https://github.com/xiyun-international/rfcs/tree/master/accepted/0002-block-platform-v1)、[实现](https://github.com/xiyun-international/block-display) |
 
-擅长 Vue 框架能说出 100 多项 API 所对应的使用场景，参与过 `Umi`、`Umi-Next`、`QianKun（微前端）`、`Ant Design Vue`、`Element`、`Vue-Next`、`React-DND`、`React-ID-Swiper`、`countUp` 等开源代码奉献；可以参考 [GitHub](https://github.com/wubaiqing) 查看奉献的记录。
 
 ### 服务端领域
 熟悉 [PHP 7.1](https://github.com/wubaiqing/meipin)、NodeJS 语言技术，了解 [Java](https://github.com/wubaiqing/java)、[Ruby On Rails](https://github.com/wubaiqing/mayitemai)、Python2、[Objective-C](https://github.com/wubaiqing/privilege/tree/master/privilege) 语言，14 年是 PHP-高级工程师 晋升为研发经理。

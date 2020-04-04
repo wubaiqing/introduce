@@ -64,15 +64,29 @@ https://github.com/xiyun-international
 参与过 Laravel5.4、Yii2、Yii1-Gii、 Ruby-China 开源项目奉献，了解 [Spring Boot](https://github.com/wubaiqing/java/tree/master/source/spring-boot)、[Spring Cloud](https://github.com/wubaiqing/java/tree/master/source/spring-cloud) 的相关技术栈，能有效指导团队、进行跨部门正确传递信息。
 
 ### 运维领域
-从 14 年接触 [Docker](https://github.com/wubaiqing/docker-shadowsocks-python) 以及之后的 Docker Compose。了解 Vagrant、Kubernetes、ServerLess 等技术。每天都在使用持续集成
+对持续集成平台有非常丰富的实操经验，内部使用 [CE](https://www.cnblogs.com/zhengyun_ustc/p/ce.html)，外部使用 Azure Pipelines、Travis、Circle。
+
+14 年接触 Docker 在同年发布应用到 [Docker Hub](https://github.com/wubaiqing/docker-shadowsocks-python)。
+
+公司内部搭建私有云时，给运维以及研发培训过 Docker 使用。
+
+了解 Vagrant、Docker Compose、Kubernetes、ServerLess 等技术，可跨部门协作进行有效排查线上网络或者负载均衡问题。
+
+### 其它领域
+
+参与 iTerm2 Extend（Search Plugin） 开源奉献。
 
 ## 工作技能
 
-### 项目规划领域
+### 经验
+
+擅长从产品、研发、运营角度考虑问题和解决问题，能独立完成人员招聘、团队建设、产品研发、项目管理等工作；
+
+### 项目
+
 具备良好的[写作和排版功底](https://xiyun-international.github.io/java-unit-docs/04-complex/01-optimize)，有项目周报、RFCS、技术白皮书、项目交接文档的写作习惯；
 
-### 分享领域
-非常熟练的使用 [Keynotes](http://note.youdao.com/noteshare?id=33985951c21d2d2898c8190412dc1219)，有面对 40 人跟 CEO、CTO、COO 汇报的演讲经验，组织团队每周的一次分享，已持续一年。做过 10 次以上`项目级`演讲。思维清晰，能把一件事跟外行讲清楚。
+### 分享
 
-### 其它领域
-参与 iTerm2 Extend（Search Plugin） 开源奉献。
+非常熟练的使用 [Keynotes](http://note.youdao.com/noteshare?id=33985951c21d2d2898c8190412dc1219)，有面对 40 人跟 CEO、CTO、COO 汇报的演讲经验，组织团队每周的一次分享，已持续近两年，共计 140 次分享。8 次项目级演讲，思路清晰，能把一件事跟外行讲清楚。
+

@@ -16,9 +16,9 @@
 
 招聘经历：面试过约 4000 人。
 
-2020 GitHub 1,381 contributions；
-2019 GitHub 1,238 contributions；
-2013 年度荣获博客园-推荐博客称号（排名 157）；
+2020 GitHub 1,381 contributions；  
+2019 GitHub 1,238 contributions；  
+2013 年度荣获博客园-推荐博客称号（排名 157）；  
 2010 年获 LAMP 兄弟连答题赛（前四名）。
 
 ## 产品能力

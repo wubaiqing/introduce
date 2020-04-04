@@ -48,7 +48,6 @@ https://github.com/xiyun-international
 生态规划大致如下：
 | 目的 | 产品类型 | 链接 |
 | ------ | ---- | --- |
-| 通过注解的方式，在 Vue 文件中声明路由 | Webpack Plugin | [查看](https://github.com/xiyun-international/vue-route-webpack-plugin)|
 | 脚手架自动生成常规后台、微前端、iFrame 的应用模板 | 脚手架 | [查看](https://github.com/xiyun-international/antd-ui-template) |
 | VSCode 插件，生成中台常用的列表、创建等页面 | VSCode 插件 开发提效| [查看](https://github.com/xiyun-international/vscode-extends) |
 | 所有前端工程引用一个依赖包，做大而全的集中化依赖管理 | 统一依赖库 | [查看](https://github.com/xiyun-international/deps) |
@@ -56,6 +55,7 @@ https://github.com/xiyun-international
 | 前端作战手册，为技术做沉淀团队更加规范化 | 文档 | [查看](https://xiyun-international.github.io/standard/share.html) |
 | Chrome 插件，在 RAP 文档中注入生成 Mock 代码功能| 提效 | [查看](https://github.com/xiyun-international/chrome-plugin) |
 | 区块平台，跨公司协作，开发后的组件共享 | 组件共享 | [规划](https://github.com/xiyun-international/rfcs/tree/master/accepted/0002-block-platform-v1)、[实现](https://github.com/xiyun-international/block-display) |
+| 通过注解的方式，在 Vue 文件中声明路由 | Webpack Plugin | [规划](https://github.com/xiyun-international/rfcs/blob/master/accepted/0000-vue-router-webpack-plugin.md)、[实现](https://github.com/xiyun-international/vue-route-webpack-plugin)|
 
 
 ### 服务端领域

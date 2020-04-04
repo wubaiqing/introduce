@@ -104,13 +104,13 @@ https://github.com/xiyun-international
 
 团购导航
 
-项目主要介绍：....。
-
 职责：CMS 日常维护、配合 SEO 人员进行搜索引擎优化、基于百度地图开发附近团购。
 
 **2009 年 8 月 2010 年 2 月 北京辛巴荣耀网络科技有限公司**
 
 **PHP 实习**
+
+企业建站
 
 职责：使用 PHPCMS、DEDECMS、ECShop 做企业产品的二次开发。
 

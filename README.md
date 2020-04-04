@@ -1,8 +1,8 @@
 # 简历
 
-| 姓名   | 年龄 | 出生年月   |
-| ------ | ---- | ---------- |
-| 吴佰清 | 29   | 1991-06-14 |
+| 姓名   | 年龄 | 出生年月   | GitHub |
+| ------ | ---- | ---------- | ---------- |
+| 吴佰清 | 29   | 1991-06-14 | https://github.com/wubaiqing |
 
 ## 自我介绍
 
@@ -14,7 +14,7 @@
 
 深度参与业务，了解各业务的**数据指标**以及**战略目标**，擅长**前端偏工程化**以及**中台体系建设**，技术范围全栈。
 
-期望应聘的岗位：总监、研发经理、架构师。
+期望应聘的岗位：总监、研发经理。
 
 招聘经历：面试过约 4000 人。
 
@@ -34,9 +34,9 @@
 
 ### 前端领域
 
-擅长 Vue 框架能说出 100 多项 API 所对应的使用场景，参与过 `Umi`、`Umi-Next`、`QianKun（微前端）`、`Ant Design Vue`、`Element`、`Vue-Next`、`React-DND`、`React-ID-Swiper`、`countUp` 等开源代码奉献；可以参考 [GitHub](https://github.com/wubaiqing) 查看奉献的记录。
+擅长 Vue 框架能说出 100 多项 API 所对应的使用场景，参与过 `Umi`、`Umi-Next`、`QianKun（微前端）`、`Ant Design Vue`、`Element`、`Vue-Next`、`React-DND`、`React-ID-Swiper`、`countUp` 等开源代码奉献；
 
-了解约 1300+ 类库，并把这些类库整理为一个开源项目`每日时报`，目前 GitHub 1.5K Star。
+了解约 1300+ 类库，并把这些类库整理为一个开源项目[每日时报](https://github.com/wubaiqing/zaobao)，目前 GitHub 1.5K Star。
 
 主导公司开源项目，禧云生态：
 https://github.com/xiyun-international

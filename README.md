@@ -30,7 +30,7 @@
 ### 自研类产品
 可以在没有产品经理帮助的情况下，从零开始构建一个技术平台，善于先有场景，再有故事，通过故事拆解出信息架构，菜单结构和功能点，最后归入某个版本。
 
-**自研产品主导过：** [禧云前端生态](http://note.youdao.com/noteshare?id=33985951c21d2d2898c8190412dc1219)、数据大屏、魔镜-商业竞品分析、太空桥-远程设备管理平台、[可视化测试平台（未落地）](https://xiyun-international.github.io/java-unit-docs/06-other/03-platform)、[前端监控（调研中-未落地）](./reference/monitoring.pdf)。
+**自研产品主导过：** [禧云前端生态](http://note.youdao.com/noteshare?id=33985951c21d2d2898c8190412dc1219)、数据大屏、魔镜-商业竞品分析、太空桥-远程设备管理平台、[可视化测试平台（未落地）](https://xiyun-international.github.io/java-unit-docs/06-other/03-platform)、[前端监控（调研中-未落地）](https://github.com/xiyun-international/rfcs/blob/master/accepted/0003-monitoring-beta.pdf)。
 
 了解《上市审计》、《加计扣除》、《专利申请》、《著作权申请》相关的流程。
 

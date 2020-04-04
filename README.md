@@ -1,8 +1,8 @@
 # 简历
 
-| 姓名   | 年龄 | 出生年月   | GitHub | 博客 | 掘金 |
-| ------ | ---- | ---------- | ---------- | ---- | --- |
-| 吴佰清 | 29   | 1991-06-14 | https://github.com/wubaiqing |  https://www.cnblogs.com/wubaiqing/ | https://juejin.im/user/5a0d37bc6fb9a0451a75ef5a |
+| 姓名   | 年龄 | 出生年月   | GitHub                       | 博客                               | 掘金                                            |
+| ------ | ---- | ---------- | ---------------------------- | ---------------------------------- | ----------------------------------------------- |
+| 吴佰清 | 29   | 1991-06-14 | https://github.com/wubaiqing | https://www.cnblogs.com/wubaiqing/ | https://juejin.im/user/5a0d37bc6fb9a0451a75ef5a |
 
 ## 简介
 
@@ -28,6 +28,7 @@
 会主动调研**商业竞品**，并给业务方提供建设性建议。善于**寻求资源解决问题**，能掌控业务内的多个技术方案，并且有系统级设计和实现的能力，能带领团队独挡一面；
 
 ### 自研类产品
+
 在没有产品经理帮助的情况下，可以从零开始构建一个技术平台，善于先有场景，再有故事，通过故事拆解出信息架构，菜单结构和功能点，最后归入某个版本。
 
 **主导：** [禧云前端生态](http://note.youdao.com/noteshare?id=33985951c21d2d2898c8190412dc1219)、[数据大屏](https://www.cnblogs.com/zhengyun_ustc/p/datab.html)、[魔镜-商业竞品分析](https://www.cnblogs.com/zhengyun_ustc/p/mm.html)、[太空桥-远程设备管理平台](https://www.cnblogs.com/zhengyun_ustc/p/spaceb.html)、[可视化测试平台（未落地）](https://xiyun-international.github.io/java-unit-docs/06-other/03-platform)、[前端监控（调研中-未落地）](https://github.com/xiyun-international/rfcs/blob/master/accepted/0003-monitoring-beta.pdf)。
@@ -45,13 +46,14 @@
 主导公司开源项目，禧云生态：
 https://github.com/xiyun-international
 
-
 ### 服务端领域
+
 熟悉 [PHP 7.1](https://github.com/wubaiqing/meipin)、NodeJS，了解 [Java](https://github.com/wubaiqing/java)、[Ruby On Rails](https://github.com/wubaiqing/mayitemai)、Python2、[Objective-C](https://github.com/wubaiqing/privilege/tree/master/privilege) 语言，14 年是 PHP-高级工程师 晋升为研发经理。
 
 参与过 Laravel5.4、Yii2、Yii1-Gii、 Ruby-China 开源项目奉献，了解 [Spring Boot](https://github.com/wubaiqing/java/tree/master/source/spring-boot)、[Spring Cloud](https://github.com/wubaiqing/java/tree/master/source/spring-cloud) 的相关技术栈，能有效指导团队、进行跨部门正确传递信息。
 
 ### 运维领域
+
 对持续集成平台有非常丰富的实操经验，内部使用 [CE](https://www.cnblogs.com/zhengyun_ustc/p/ce.html)，外部使用 Azure Pipelines、Travis、Circle。
 
 14 年接触 Docker 在同年发布应用到 [Docker Hub](https://github.com/wubaiqing/docker-shadowsocks-python)。
@@ -78,14 +80,13 @@ https://github.com/xiyun-international
 
 非常熟练的使用 [Keynotes](http://note.youdao.com/noteshare?id=33985951c21d2d2898c8190412dc1219)，有面对 40 人跟 CEO、CTO、COO 汇报的演讲经验，组织团队每周的一次分享，已持续近两年，共计 91 次分享。8 次项目级演讲，思路清晰，能把一件事跟外行讲清楚。
 
-
 ## 工作经验
 
 ### 2017 年 3 月至今 北京云纵信息技术有限公司和禧云信息技术有限公司
 
 #### 研发经理
 
-互联网+ERP运营商。
+互联网+ERP 运营商。
 
 项目主要介绍：....。
 
@@ -113,7 +114,6 @@ https://github.com/xiyun-international
 企业建站
 
 职责：使用 PHPCMS、DEDECMS、ECShop 做企业产品的二次开发。
-
 
 ## 教育背景
 

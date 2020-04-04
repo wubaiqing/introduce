@@ -114,7 +114,7 @@ https://github.com/xiyun-international
 
 企业建站
 
-职责：使用 PHPCMS、DEDECMS、ECShop 做企业产品的二次开发。
+职责：使用 PHPCMS、DEDECMS、ECShop、Discuz UCenter 做企业产品的二次开发。
 
 ## 教育背景
 

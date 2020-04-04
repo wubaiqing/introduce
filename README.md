@@ -110,10 +110,9 @@ https://github.com/xiyun-international
 
 **2009 年 8 月 2010 年 2 月 北京辛巴荣耀网络科技有限公司**
 
-**PHP 实习工程师**
+**PHP 实习**
 
-......
-......
+职责：使用 PHPCMS、DEDECMS、ECShop 做企业产品的二次开发。
 
 
 ## 教育背景

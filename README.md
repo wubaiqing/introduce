@@ -30,7 +30,7 @@
 ### 自研类产品
 在没有产品经理帮助的情况下，可以从零开始构建一个技术平台，善于先有场景，再有故事，通过故事拆解出信息架构，菜单结构和功能点，最后归入某个版本。
 
-**主导过：** [禧云前端生态](http://note.youdao.com/noteshare?id=33985951c21d2d2898c8190412dc1219)、[数据大屏](https://www.cnblogs.com/zhengyun_ustc/p/datab.html)、[魔镜-商业竞品分析](https://www.cnblogs.com/zhengyun_ustc/p/mm.html)、[太空桥-远程设备管理平台](https://www.cnblogs.com/zhengyun_ustc/p/spaceb.html)、[可视化测试平台（未落地）](https://xiyun-international.github.io/java-unit-docs/06-other/03-platform)、[前端监控（调研中-未落地）](https://github.com/xiyun-international/rfcs/blob/master/accepted/0003-monitoring-beta.pdf)。
+**主导：** [禧云前端生态](http://note.youdao.com/noteshare?id=33985951c21d2d2898c8190412dc1219)、[数据大屏](https://www.cnblogs.com/zhengyun_ustc/p/datab.html)、[魔镜-商业竞品分析](https://www.cnblogs.com/zhengyun_ustc/p/mm.html)、[太空桥-远程设备管理平台](https://www.cnblogs.com/zhengyun_ustc/p/spaceb.html)、[可视化测试平台（未落地）](https://xiyun-international.github.io/java-unit-docs/06-other/03-platform)、[前端监控（调研中-未落地）](https://github.com/xiyun-international/rfcs/blob/master/accepted/0003-monitoring-beta.pdf)。
 
 了解《上市审计》、《加计扣除》、《专利申请》、《著作权申请》相关的流程。
 
@@ -44,18 +44,6 @@
 
 主导公司开源项目，禧云生态：
 https://github.com/xiyun-international
-
-生态规划大致如下：
-| 目的 | 产品类型 | 链接 |
-| ------ | ---- | --- |
-| 脚手架自动生成常规后台、微前端、iFrame 的应用模板 | 脚手架 | [查看](https://github.com/xiyun-international/antd-ui-template) |
-| VSCode 插件，生成中台常用的列表、创建等页面 | VSCode 插件 开发提效| [查看](https://github.com/xiyun-international/vscode-extends) |
-| 所有前端工程引用一个依赖包，做大而全的集中化依赖管理 | 统一依赖库 | [查看](https://github.com/xiyun-international/deps) |
-| 中台类产品样式统一 | UI 库 | [查看](https://github.com/xiyun-international/xy/tree/master/packages/ant-design-ui) |
-| 前端作战手册，为技术做沉淀团队更加规范化 | 文档 | [查看](https://xiyun-international.github.io/standard/share.html) |
-| Chrome 插件，在 RAP 文档中注入生成 Mock 代码功能| 提效 | [查看](https://github.com/xiyun-international/chrome-plugin) |
-| 区块平台，跨公司协作，开发后的组件共享 | 组件共享 | [规划](https://github.com/xiyun-international/rfcs/tree/master/accepted/0002-block-platform-v1)、[实现](https://github.com/xiyun-international/block-display) |
-| 通过注解的方式，在 Vue 文件中声明路由 | Webpack Plugin | [规划](https://github.com/xiyun-international/rfcs/blob/master/accepted/0000-vue-router-webpack-plugin.md)、[实现](https://github.com/xiyun-international/vue-route-webpack-plugin)|
 
 
 ### 服务端领域

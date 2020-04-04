@@ -1,8 +1,8 @@
 # 简历
 
-| 姓名   | 年龄 | 出生年月   | GitHub | 博客 |
-| ------ | ---- | ---------- | ---------- | ---- |
-| 吴佰清 | 29   | 1991-06-14 | https://github.com/wubaiqing |  https://www.cnblogs.com/wubaiqing/ |
+| 姓名   | 年龄 | 出生年月   | GitHub | 博客 | 掘金 |
+| ------ | ---- | ---------- | ---------- | ---- | --- |
+| 吴佰清 | 29   | 1991-06-14 | https://github.com/wubaiqing |  https://www.cnblogs.com/wubaiqing/ | https://juejin.im/user/5a0d37bc6fb9a0451a75ef5a |
 
 ## 简介
 

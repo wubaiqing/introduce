@@ -112,7 +112,8 @@ https://github.com/xiyun-international
 
 互联网+ERP 运营商。
 
-项目主要介绍：....。
+项目主要介绍：
+
 
 ### 2011 年 3 月至 2015 年 9 月 众美窝窝（中国）有限公司 (NASDAQ ：JMU)
 
@@ -130,7 +131,7 @@ https://github.com/xiyun-international
 
 团购导航
 
-职责：CMS 日常维护、配合 SEO 人员进行搜索引擎优化、基于百度地图开发附近团购。
+职责：基于百度地图开发附近团购，CMS 日常维护、配合 SEO 进行搜索引擎优化。
 
 ### 2009 年 8 月 2010 年 2 月 北京辛巴荣耀网络科技有限公司
 
@@ -138,7 +139,7 @@ https://github.com/xiyun-international
 
 企业建站
 
-职责：使用 PHPCMS、DEDECMS、ECShop、Discuz UCenter 做企业产品的二次开发。
+职责：使用 Discuz UCenter、ECShop、PHPCMS、DEDECMS 做企业产品的二次开发。
 
 ## 教育背景
 

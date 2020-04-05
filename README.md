@@ -43,6 +43,8 @@
 
 了解约 1300+ 类库，并把这些类库整理为一个开源项目[每日时报](https://github.com/wubaiqing/zaobao)，目前 GitHub 1.5K Star。
 
+熟悉：微前端（已商用）、Webpack5 模块联邦、CLI 工具、脚手架等前言知识。
+
 主导公司开源项目，禧云生态：
 https://github.com/xiyun-international
 

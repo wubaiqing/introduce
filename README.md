@@ -50,7 +50,7 @@ https://github.com/xiyun-international
 
 熟悉 [PHP 7.1](https://github.com/wubaiqing/meipin)、NodeJS，了解 [Java](https://github.com/wubaiqing/java)、[Ruby On Rails](https://github.com/wubaiqing/mayitemai)、Python2、[Objective-C](https://github.com/wubaiqing/privilege/tree/master/privilege) 语言，14 年是 PHP-高级工程师 晋升为研发经理。
 
-参与过 Laravel5.4、Yii2、Yii1-Gii、 Ruby-China 开源项目奉献，了解 [Spring Boot](https://github.com/wubaiqing/java/tree/master/source/spring-boot)、[Spring Cloud](https://github.com/wubaiqing/java/tree/master/source/spring-cloud) 的相关技术栈，可以帮助前端工程师，快速理解服务端技术、从而进行跨部门正确传递信息。
+参与过 Laravel5.4、Yii2、Yii1-Gii、 Ruby-China 开源项目奉献，了解 [Spring Boot](https://github.com/wubaiqing/java/tree/master/source/spring-boot)、[Spring Cloud](https://github.com/wubaiqing/java/tree/master/source/spring-cloud) 的相关技术栈，可以帮助前端工程师理解服务端技术，从而进行跨部门正确传递信息。
 
 ### 运维领域
 
@@ -72,11 +72,11 @@ https://github.com/xiyun-international
 
 正视**求同存异**，重视**信任关系**。
 
-在关键岗位必有备份，重视企业和人双向匹配问题。能避免和感知到**系统性坍塌**和**能力性坍塌**，善于从企业角度考虑**可替代成本**和**流动性成本**。
+在关键岗位必有**备份**，重视企业和人双向匹配问题。能避免和感知到**系统性坍塌**和**能力性坍塌**，善于从企业角度考虑**可替代成本**和**流动性成本**。
 
 ### 事
 
-善于，将技术带来的工程收益，转变为业务收益。面向业务支撑的流程，主动驱动业务，可正向影响到业务的产品架构，技术优化支撑未来的业务模式。
+将技术带来的工程收益，转变为业务收益。面向业务支撑的流程，主动驱动业务，可正向影响到业务的产品架构，技术优化支撑未来的业务模式。
 
 能站在未来看今天，帮助业务和团队活好未来。
 

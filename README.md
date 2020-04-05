@@ -50,21 +50,40 @@ https://github.com/xiyun-international
 
 熟悉 [PHP 7.1](https://github.com/wubaiqing/meipin)、NodeJS，了解 [Java](https://github.com/wubaiqing/java)、[Ruby On Rails](https://github.com/wubaiqing/mayitemai)、Python2、[Objective-C](https://github.com/wubaiqing/privilege/tree/master/privilege) 语言，14 年是 PHP-高级工程师 晋升为研发经理。
 
-参与过 Laravel5.4、Yii2、Yii1-Gii、 Ruby-China 开源项目奉献，了解 [Spring Boot](https://github.com/wubaiqing/java/tree/master/source/spring-boot)、[Spring Cloud](https://github.com/wubaiqing/java/tree/master/source/spring-cloud) 的相关技术栈，能有效指导团队、进行跨部门正确传递信息。
+参与过 Laravel5.4、Yii2、Yii1-Gii、 Ruby-China 开源项目奉献，了解 [Spring Boot](https://github.com/wubaiqing/java/tree/master/source/spring-boot)、[Spring Cloud](https://github.com/wubaiqing/java/tree/master/source/spring-cloud) 的相关技术栈，可以帮助前端工程师，快速理解服务端技术、从而进行跨部门正确传递信息。
 
 ### 运维领域
 
 对持续集成平台有非常丰富的实操经验，内部使用 [CE](https://www.cnblogs.com/zhengyun_ustc/p/ce.html)，外部使用 Azure Pipelines、Travis、Circle。
 
-14 年接触 Docker 在同年发布应用到 [Docker Hub](https://github.com/wubaiqing/docker-shadowsocks-python)。
+从 14 年开始接触的 Docker，算是国内第一批早期用户，并在同年发布应用到 [Docker Hub](https://github.com/wubaiqing/docker-shadowsocks-python)。为公司搭建[私有云](https://www.cnblogs.com/zhengyun_ustc/p/ce.html)项目准备了良好的铺垫，早年给运维和研发工程师培训过 Docker 技术。
 
-公司内部搭建私有云时，给运维以及研发培训过 Docker 使用。
-
-了解 Vagrant、Docker Compose、Kubernetes、ServerLess 等技术，可跨部门协作进行有效排查线上网络或者负载均衡问题。
+了解 Vagrant、Docker Compose、Kubernetes、ServerLess 等技术，能有效排查线上网络或者负载均衡问题。
 
 ### 其它领域
 
 参与 iTerm2 Extend（Search Plugin） 开源奉献。
+
+## 管理能力
+
+### 人
+
+善于，使用团队的力量，在不确定性中寻找确定性。让个人的优势、长处，通过做事、推动事，辐射到更大的范围，从而影响其他人，帮助业务拿到更多结果。
+
+正视**求同存异**，重视**信任关系**。
+
+在关键岗位必有备份，重视企业和人双向匹配问题。能避免和感知到**系统性坍塌**和**能力性坍塌**，善于从企业角度考虑**可替代成本**和**流动性成本**。
+
+### 事
+
+善于，将技术带来的工程收益，转变为业务收益。面向业务支撑的流程，主动驱动业务，可正向影响到业务的产品架构，技术优化支撑未来的业务模式。
+
+能站在未来看今天，帮助业务和团队活好未来。
+
+### 文化
+
+公司最重要的资产是，不断成长的人和团队
+
 
 ## 工作技能
 

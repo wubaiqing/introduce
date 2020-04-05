@@ -14,8 +14,8 @@
 
 期望应聘的岗位：研发经理/总监。
 
-2020 GitHub 1,381 contributions；  
-2019 GitHub 1,238 contributions；  
+2019-2020 GitHub 1,436 contributions；  
+2018-2019 GitHub 1,238 contributions；  
 2013 年度荣获博客园-推荐博客称号（排名 157）；  
 2010 年获 LAMP 兄弟连答题赛（前三名）。
 

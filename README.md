@@ -62,7 +62,7 @@ https://github.com/xiyun-international
 
 ### 其它领域
 
-参与 iTerm2 Extend（Search Plugin） 开源奉献。
+擅长用命令行使用 Git、Git-Flow，有近 9 年的 Git Flow [管理经验](https://www.cnblogs.com/wubaiqing/archive/2011/12/18/2271724.html)，参与 iTerm2 Extend（Search Plugin）开源奉献。
 
 ## 管理能力
 

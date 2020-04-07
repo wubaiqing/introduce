@@ -104,7 +104,7 @@ https://github.com/xiyun-international
 
 ### 分享
 
-非常熟练的使用 [Keynotes](http://note.youdao.com/noteshare?id=33985951c21d2d2898c8190412dc1219)，有面对 40 人以上，跟 CEO、CTO、OD 汇报的演讲经验，组织团队每周的一次分享，已持续近两年，共计 91 次演讲式分享。8 次项目级演讲，思路清晰，能把一件事跟外行讲清楚。
+非常熟练的使用 [Keynotes](http://note.youdao.com/noteshare?id=33985951c21d2d2898c8190412dc1219)，有面对 40 人以上，跟 CEO、CTO、运营副总裁 汇报的演讲经验，组织团队每周的一次分享，已持续近两年，共计 91 次演讲式分享。8 次项目级演讲，思路清晰，能把一件事跟外行讲清楚。
 
 ### 特别之处
 

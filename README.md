@@ -58,7 +58,7 @@ https://github.com/xiyun-international
 
 对持续集成平台有非常丰富的实操经验，内部使用 [CE](https://www.cnblogs.com/zhengyun_ustc/p/ce.html)，外部使用 Azure Pipelines、Travis、Circle。
 
-从 14 年开始接触的 Docker，算是国内第一批早期用户，并在同年发布应用到 [Docker Hub](https://github.com/wubaiqing/docker-shadowsocks-python)。为公司搭建[私有云](https://www.cnblogs.com/zhengyun_ustc/p/ce.html)项目准备了良好的铺垫，早年给运维和研发工程师培训过 Docker 技术。
+从 14 年开始接触的 Docker，算是国内第一批早期用户，并在同年发布应用到 [Docker Hub](https://github.com/wubaiqing/docker-shadowsocks-python)。为公司搭建[私有云](https://www.cnblogs.com/zhengyun_ustc/p/ce.html)项目准备了良好的铺垫，早年给运维和研发工程师培训过 Docker 技术，技术商业化非常敏锐。
 
 了解 Vagrant、Docker Compose、Kubernetes、ServerLess 等技术，能有效排查线上网络或者负载均衡问题。
 

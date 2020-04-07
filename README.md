@@ -64,7 +64,7 @@ https://github.com/xiyun-international
 
 ### 其它领域
 
-有 9 年的 Vim、Git、Git-Flow 使用[经验](https://www.cnblogs.com/wubaiqing/archive/2011/12/18/2271724.html)，擅长用命令行而不是图形界面。设计过 [RAMDisk](https://www.cnblogs.com/wubaiqing/p/11460766.html) 提升打包方案，参与 iTerm2 Extend（Search Plugin）开源奉献。
+有 9 年的 Vim、Git、Git-Flow 使用[经验](https://www.cnblogs.com/wubaiqing/archive/2011/12/18/2271724.html)，擅长用命令行而不是图形界面。设计过 [RAMDisk](https://www.cnblogs.com/wubaiqing/p/11460766.html) 打包方案，参与 iTerm2 Extend（Search Plugin）开源奉献。
 
 ## 管理能力
 

@@ -52,7 +52,7 @@ https://github.com/xiyun-international
 
 熟悉 [PHP 7.1](https://github.com/wubaiqing/meipin)、NodeJS，了解 [Java](https://github.com/wubaiqing/java)、[Ruby On Rails](https://github.com/wubaiqing/mayitemai)、Python2、[Objective-C](https://github.com/wubaiqing/privilege/tree/master/privilege) 语言，15 年是 PHP-高级工程师 晋升为研发经理。
 
-参与过 Laravel5.4、Yii2、Yii1-Gii、 Ruby-China 开源项目奉献，了解 [Spring Boot](https://github.com/wubaiqing/java/tree/master/source/spring-boot)、[Spring Cloud](https://github.com/wubaiqing/java/tree/master/source/spring-cloud) 的相关技术栈，可以帮助前端工程师理解服务端技术，从而进行跨部门正确传递信息。
+参与过 Laravel5.4、Yii2、Yii1-Gii、 Ruby-China 开源项目奉献，了解 [Spring Boot](https://github.com/wubaiqing/java/tree/master/source/spring-boot)、[Spring Cloud](https://github.com/wubaiqing/java/tree/master/source/spring-cloud) 的相关技术栈，可以帮助前端工程师快速理解服务端技术从而进行有效的沟通。
 
 ### 运维领域
 

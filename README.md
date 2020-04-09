@@ -166,7 +166,7 @@ https://github.com/xiyun-international
 
 ### 2009 年 8 月 2010 年 2 月 北京辛巴荣耀网络科技有限公司
 
-#### PHP 实习
+#### PHP-工程师助力
 
 企业建站
 

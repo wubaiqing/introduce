@@ -6,34 +6,17 @@
 
 ## 简介
 
-目前工作 11 年，**现团队中**工作 `9` 年，近 9 年效力的公司分别是[禧云信息](http://www.xiyun.com.cn/)（团餐-蚂蚁投资）、[云纵信息](http://www.yunzongnet.com/)（社餐-蚂蚁投资）、窝窝团（NASDAQ ：JMU)。
+目前工作 11 年，**现团队中**工作 `9` 年，管理经验 `5` 年，2015 年在 200 人的研发团队晋升到研发经理（P7）。
 
-2015 年在 200 人的研发团队晋升到研发经理（P7）。目前是禧云信息的前端负责人，属于团队核心中上层管理，管理经验 5 年。
-
-深度参与业务，了解各业务的**数据指标**以及**战略目标**，擅长**前端基础建设**以及**中台体系建设**，技术范围全栈偏前端。
+擅长**前端基础建设**以及**中台体系建设**，技术范围全栈偏前端。
 
 期望应聘的岗位：研发经理/技术专家/架构师/技术总监。
 
+2018-至今：开源项目，前端每日时报，目前 GitHub 1.5K Star；
 2019-2020 GitHub 1,436 contributions；  
 2018-2019 GitHub 1,238 contributions；  
 2013 年度荣获博客园-推荐博客称号（排名 116）；  
 2010 年获 LAMP 兄弟连答题赛（前三名）。
-
-## 产品能力
-
-### 业务类产品
-
-深刻理解业务，熟悉**团餐、社餐**整个产品线的调用链路，了解市场环境。
-
-会主动调研**商业竞品**，善于**寻求资源解决问题**，能掌控业务内的多个技术方案有系统级设计和实现的能力，能带领团队独挡一面；
-
-### 自研类产品
-
-在没有产品经理帮助的情况下，可以从零开始构建一个技术平台，善于先有场景，再有故事，通过故事拆解出信息架构，菜单结构和功能点，最后归入某个版本。
-
-**主导：** [禧云前端生态](http://note.youdao.com/noteshare?id=33985951c21d2d2898c8190412dc1219)、[数据大屏](https://www.cnblogs.com/zhengyun_ustc/p/datab.html)、[魔镜-商业竞品分析](https://www.cnblogs.com/zhengyun_ustc/p/mm.html)、[太空桥-远程设备管理平台](https://www.cnblogs.com/zhengyun_ustc/p/spaceb.html)、[可视化测试平台（未落地）](https://xiyun-international.github.io/java-unit-docs/06-other/03-platform)、[前端监控（调研中-未落地）](https://github.com/xiyun-international/rfcs/blob/master/accepted/0003-monitoring-beta.pdf)。
-
-了解《上市审计》、《加计扣除》、《专利申请》、《著作权申请》相关的流程。
 
 ## 研发能力
 
@@ -65,6 +48,23 @@ https://github.com/xiyun-international
 ### 其它领域
 
 有 9 年的 macOS、Vim、Git、Git-Flow 使用[经验](https://www.cnblogs.com/wubaiqing/archive/2011/12/18/2271724.html)，擅长用命令行而不是图形界面。设计过 [RAMDisk](https://www.cnblogs.com/wubaiqing/p/11460766.html) 打包方案，参与 iTerm2 Extend（Search Plugin）开源奉献。
+
+
+## 产品能力
+
+### 业务类产品
+
+深刻理解业务，熟悉**团餐、社餐**整个产品线的调用链路，了解市场环境。
+
+会主动调研**商业竞品**，善于**寻求资源解决问题**，能掌控业务内的多个技术方案有系统级设计和实现的能力，能带领团队独挡一面；
+
+### 自研类产品
+
+在没有产品经理帮助的情况下，可以从零开始构建一个技术平台，善于先有场景，再有故事，通过故事拆解出信息架构，菜单结构和功能点，最后归入某个版本。
+
+**主导：** [禧云前端生态](http://note.youdao.com/noteshare?id=33985951c21d2d2898c8190412dc1219)、[数据大屏](https://www.cnblogs.com/zhengyun_ustc/p/datab.html)、[魔镜-商业竞品分析](https://www.cnblogs.com/zhengyun_ustc/p/mm.html)、[太空桥-远程设备管理平台](https://www.cnblogs.com/zhengyun_ustc/p/spaceb.html)、[可视化测试平台（未落地）](https://xiyun-international.github.io/java-unit-docs/06-other/03-platform)、[前端监控（调研中-未落地）](https://github.com/xiyun-international/rfcs/blob/master/accepted/0003-monitoring-beta.pdf)。
+
+了解《上市审计》、《加计扣除》、《专利申请》、《著作权申请》相关的流程。
 
 ## 管理能力
 

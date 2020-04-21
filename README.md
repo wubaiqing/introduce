@@ -6,13 +6,15 @@
 
 ## 简介
 
-目前工作 11 年，**现团队中**工作 `9` 年，管理经验 `5` 年。2015 年在 200 人的研发团队晋升到研发经理（P7）。
+目前工作 11 年，**现团队中**工作 `9` 年，2015 年在 200 人的研发团队晋升到研发经理（P7）。
+
+带队经验 `5` 年。培养2015 年在 200 人的研发团队晋升到研发经理（P7）。
 
 擅长**前端基础建设**以及**中台体系建设**，技术范围全栈偏前端。
 
 期望应聘的岗位：研发经理/前端技术专家/前端架构师/技术总监。
 
-2018-至今：维护开源项目，前端每日时报，目前 GitHub 1.5K Star；  
+2018-至今：维护开源项目前端**每日时报**，目前 GitHub 1.5K Star；  
 2019-2020 GitHub 1,436 contributions；  
 2018-2019 GitHub 1,238 contributions；  
 2013 年度荣获博客园-推荐博客称号（排名 116）；  
@@ -22,9 +24,11 @@
 
 ### 前端领域
 
-参与过 `Umi`、`Umi-Next`、`QianKun`、`Ant Design Vue`、`Element`、`Vue-Next`、`React-DND`、`React-ID-Swiper`、`countUp` 等开源代码奉献；擅长 Vue 框架能说出 100 多项 API 所对应的使用场景。
+参与过 `Umi`、`Umi-Next`、`QianKun`、`Ant Design Vue`、`Element`、`Vue-Next`、`React-DND`、`React-ID-Swiper`、`countUp` 等开源代码奉献；
 
-了解约 1300+ 类库，并把这些类库整理为一个开源项目[每日时报](https://github.com/wubaiqing/zaobao)，目前 GitHub 1.5K Star。
+擅长使用 Vue 框架，能说出 100 多项 API 所对应的使用场景。
+
+
 
 熟悉：微前端（已商用）、Webpack5 模块联邦、CLI 工具、脚手架等前言知识。
 
@@ -104,7 +108,7 @@ https://github.com/xiyun-international
 
 ### 分享
 
-非常熟练的使用 [Keynotes](http://note.youdao.com/noteshare?id=33985951c21d2d2898c8190412dc1219)，有面对 40 人以上，跟 CEO、CTO、运营副总裁 汇报的演讲经验，组织团队每周的一次分享，已持续近两年，共计 91 次演讲式分享。8 次项目级演讲，思路清晰，能把一件事跟外行讲清楚。
+非常熟练的使用 [Keynote](http://note.youdao.com/noteshare?id=33985951c21d2d2898c8190412dc1219)，有面对 40 人以上，跟 CEO、CTO、运营副总裁 汇报的演讲经验，组织团队每周的一次分享，已持续近两年，共计 91 次演讲式分享。8 次项目级演讲，思路清晰，能把一件事跟外行讲清楚。
 
 ### 特别之处
 

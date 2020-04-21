@@ -4,16 +4,15 @@
 | ------ | ---- | ---------- | -------------------- | ------------------------------------ | ------------------------------------------ | ------------------------------------------------------- |
 | 吴佰清 | 29   | 1991-06-14 | wubaiqing@vip.qq.com | [查看](https://github.com/wubaiqing) | [查看](https://www.cnblogs.com/wubaiqing/) | [查看](https://juejin.im/user/5a0d37bc6fb9a0451a75ef5a) |
 
+期望应聘的岗位：研发经理/前端技术专家/前端架构师/技术总监。
+
 ## 简介
 
 目前工作 11 年，**现团队中**工作 `9` 年，近 9 年效力的公司分别是[禧云信息](http://www.xiyun.com.cn/)（团餐-蚂蚁投资）、[云纵信息](http://www.yunzongnet.com/)（社餐-蚂蚁投资）、窝窝团（NASDAQ ：JMU)。
 
-
-2015 年在 200 人的研发团队晋升到研发经理（P7）。目前是禧云信息的前端负责人，属于团队核心中上层管理，管理经验 5 年。
+2015 年在 200 人的研发团队晋升到研发经理（P7）。目前是禧云信息的前端负责人，属于团队核心中上层管理，带团队经验 5 年。
 
 擅长**前端基础建设**以及**中台体系建设**，技术范围全栈偏前端。
-
-期望应聘的岗位：研发经理/前端技术专家/前端架构师/技术总监。
 
 2018-至今：维护开源项目前端**每日时报**，目前 GitHub 1.5K Star；  
 2019-2020 GitHub 1,436 contributions；  
@@ -25,16 +24,11 @@
 
 ### 前端领域
 
-参与过 `Umi`、`Umi-Next`、`QianKun`、`Ant Design Vue`、`Element`、`Vue-Next`、`React-DND`、`React-ID-Swiper`、`countUp` 等开源代码奉献；
+开源项目参与过 `Umi`、`Umi-Next`、`QianKun`、`Ant Design Vue`、`Element`、`Vue-Next`、`React-DND`、`React-ID-Swiper`、`countUp` 等；
 
-擅长使用 Vue 框架，能说出 100 多项 API 所对应的使用场景。
-
-
+擅长：Vue、Vue Router、Vuex、Vue Cli、React、Dva、Umi、Redux、Immutable、Webpack、。
 
 熟悉：微前端（已商用）、Webpack5 模块联邦、CLI 工具、脚手架等前言知识。
-
-主导公司开源项目，禧云生态：
-https://github.com/xiyun-international
 
 ### 服务端领域
 

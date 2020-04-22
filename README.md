@@ -96,7 +96,7 @@
 4. 组织分享，共计 91 次演讲式分享，8 次项目及演讲，34 次邮件式分享。
 
 团队技术栈：
-PC 端：Vue+Vue-Router+Vuex+Vue-CLI+自研 CLI 路由插件+Lodash+Normalize+core-js+Element-UI/Ant-Design-Vue+
+PC 端：Vue+Vue-Router+Vuex+Vue-CLI+自研 CLI 路由插件+Lodash+Normalize+core-js+Element-UI/Ant-Design-Vue+Prettier+ESLint+Airbnb+CommitLint+Less+LintStaged
 
 工作描述：
 

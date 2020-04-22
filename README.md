@@ -19,7 +19,7 @@
 
 ## 工作技能
 
-有良好的沟通能力和团队合作意识，善于寻求支援解决问题。
+有良好的沟通能力和团队合作意识，善于寻求资源解决问题。
 （标题右侧）
 
 ### 前端领域
@@ -42,7 +42,7 @@
 
 开源项目贡献过 Laravel5.4、Yii2、Yii1-Gii、 Ruby-China。**可以把服务端思想带入前端**。
 
-**熟悉编译性语言和脚本语言**，如 [PHP 7.1](https://github.com/wubaiqing/meipin)、NodeJS、[Java](https://github.com/wubaiqing/java)、[Ruby On Rails](https://github.com/wubaiqing/mayitemai)、Python2、[Objective-C](https://github.com/wubaiqing/privilege/tree/master/privilege)、[Spring Boot](https://github.com/wubaiqing/java/tree/master/source/spring-boot)、[Spring Cloud](https://github.com/wubaiqing/java/tree/master/source/spring-cloud)、2015 年是 PHP-高级工程师晋升为研发经理。
+熟悉编译性语言和脚本语言，如 [PHP 7.1](https://github.com/wubaiqing/meipin)、NodeJS、[Java](https://github.com/wubaiqing/java)、[Ruby On Rails](https://github.com/wubaiqing/mayitemai)、Python2、[Objective-C](https://github.com/wubaiqing/privilege/tree/master/privilege)、[Spring Boot](https://github.com/wubaiqing/java/tree/master/source/spring-boot)、[Spring Cloud](https://github.com/wubaiqing/java/tree/master/source/spring-cloud)、2015 年是 PHP-高级工程师晋升为研发经理。
 
 ### 产品领域
 
@@ -86,16 +86,18 @@
 
 公司简介：
 
-中国团餐领导者，获蚂蚁金服、鼎辉等投资，2 年多的时间服务 6000+ 餐饮中心、8 万+ 档口门店，日均线上交易 800+ 万笔，日均触达 2000 万+ 人次。
+中国团餐领导者，获蚂蚁金服、鼎辉等投资，2 年多的时间服务 6000+ 餐饮中心，8 万+ 档口门店，日均线上交易 800+ 万笔，日均触达 2000 万+ 人次。
 
 职责：
 
 1. 前端团队组建，人员招聘和培养，共计 9 人。
-2. 前端基建，如规范制度、文档服务、基础框架、物料库、前后端协同等核心模块开发和指导。
+2. 前端基础建设，如规范制度、文档服务、基础框架、物料库、前后端协同等核心模块开发和指导。
 3. 新技术调研以及商用落地。
-4. 组织分享，共计 91 次演讲时分享，8 次项目及演讲，34 次邮件式分享。
+4. 组织分享，共计 91 次演讲式分享，8 次项目及演讲，34 次邮件式分享。
 
-项目描述：
+工作描述：
+
+负责中台业务系统搭建，整合多渠道的合作系统，从而快速推进线下业务，系统如下：
 
 **2019 年 7 月 禧鹊，** ERP 系统，主要负责商机、项目、设备的创建和审批的流程控制；  
 **2019 年 3 月 前端生态，** 前端的提效工具含 UI、CLI、监控、脚手架、VSCode 插件、区块平台、注解路由、微前端等；  

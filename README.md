@@ -28,7 +28,9 @@
 
 开源项目贡献过 `Umi`、`Umi-Next`、`QianKun`、`Ant-Design-Vue`、`Element-UI`、`Vue-Next`、`React-DND`、`React-ID-Swiper`、`Count-Up` 等；
 
-熟练掌握 Vue 以及 React 技术体系，擅长**以前端工程为主的**数据大屏、业务组件平台、提效工具、UI 工具（Low Code）、前端规范、工程测试、VSCode 插件开发、脚手架开发。
+熟练掌握 Vue 以及 React 技术体系。
+
+擅长**以前端工程为主的**数据大屏、运营活动页生成器、业务组件平台、提效工具、UI 工具（Low Code）、前端规范、工程测试、VSCode 插件开发、脚手架开发。
 
 （重点部分）
 

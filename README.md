@@ -42,7 +42,7 @@
 
 开源项目贡献过 Laravel5.4、Yii2、Yii1-Gii、 Ruby-China。**可以把服务端思想带入前端**。
 
-**熟悉编译性语言和脚本语言**，如 [PHP 7.1](https://github.com/wubaiqing/meipin)、NodeJS、[Java](https://github.com/wubaiqing/java)、[Ruby On Rails](https://github.com/wubaiqing/mayitemai)、Python2、[Objective-C](https://github.com/wubaiqing/privilege/tree/master/privilege)、[Spring Boot](https://github.com/wubaiqing/java/tree/master/source/spring-boot)、[Spring Cloud](https://github.com/wubaiqing/java/tree/master/source/spring-cloud)、2015 年是 PHP-高级工程师晋升为研发经理。**能带领服务端团队，进行跨部门有效沟通**。
+**熟悉编译性语言和脚本语言**，如 [PHP 7.1](https://github.com/wubaiqing/meipin)、NodeJS、[Java](https://github.com/wubaiqing/java)、[Ruby On Rails](https://github.com/wubaiqing/mayitemai)、Python2、[Objective-C](https://github.com/wubaiqing/privilege/tree/master/privilege)、[Spring Boot](https://github.com/wubaiqing/java/tree/master/source/spring-boot)、[Spring Cloud](https://github.com/wubaiqing/java/tree/master/source/spring-cloud)、2015 年是 PHP-高级工程师晋升为研发经理。
 
 ### 产品领域
 
@@ -68,7 +68,7 @@
 
 具备良好的[写作和排版功底](https://xiyun-international.github.io/java-unit-docs/04-complex/01-optimize)，有项目周报、RFCS、技术白皮书、项目交接、RCA 文档的写作习惯；
 
-善于被动学习和共享自己掌握的技术，熟练的掌握 [Keynote](http://note.youdao.com/noteshare?id=33985951c21d2d2898c8190412dc1219)，有面对 40 人以上，跟 CEO、CTO、运营副总裁汇报的演讲经验。
+善于被动学习和共享自己掌握的技术，熟练的掌握 [Keynote](http://note.youdao.com/noteshare?id=33985951c21d2d2898c8190412dc1219)，有面对 40 人以上跟 CEO、CTO、运营副总裁汇报的演讲经验。
 
 责任心强、严谨、认真、仔细；  
 

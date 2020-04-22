@@ -26,7 +26,8 @@
 
 开源项目贡献过 `Umi`、`Umi-Next`、`QianKun`、`Ant-Design-Vue`、`Element-UI`、`Vue-Next`、`React-DND`、`React-ID-Swiper`、`Count-Up` 等；
 
-熟练掌握**前端工程化**、UI 配置化（Low Code）、组件平台化、前端规范化、工程测试、Vue 体系、React 体系、VSCode 插件开发、脚手架开发。
+熟练掌握**前端工程化**、UI 配置化（Low Code）、组件平台化、前端规范化、工程测试、Vue 体系、React 体系、VSCode 插件开发、脚手架开发。  
+
 （重点部分）
 
 熟悉 Lerna 多包管理以及 NPM 发包流程，在 NPM 官方发布了 **30 多个包**。

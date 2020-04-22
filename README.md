@@ -41,7 +41,7 @@
 
 开源项目贡献过 Laravel5.4、Yii2、Yii1-Gii、 Ruby-China。**可以把服务端思想带入前端**。
 
-**熟悉编译性语言和脚本语言**，如 [PHP 7.1](https://github.com/wubaiqing/meipin)、NodeJS、[Java](https://github.com/wubaiqing/java)、[Ruby On Rails](https://github.com/wubaiqing/mayitemai)、Python2、[Objective-C](https://github.com/wubaiqing/privilege/tree/master/privilege)、[Spring Boot](https://github.com/wubaiqing/java/tree/master/source/spring-boot)、[Spring Cloud](https://github.com/wubaiqing/java/tree/master/source/spring-cloud)、15 年是 PHP-高级工程师晋升为研发经理。**能带领服务端团队，并进行跨部门有效沟通**。
+**熟悉编译性语言和脚本语言**，如 [PHP 7.1](https://github.com/wubaiqing/meipin)、NodeJS、[Java](https://github.com/wubaiqing/java)、[Ruby On Rails](https://github.com/wubaiqing/mayitemai)、Python2、[Objective-C](https://github.com/wubaiqing/privilege/tree/master/privilege)、[Spring Boot](https://github.com/wubaiqing/java/tree/master/source/spring-boot)、[Spring Cloud](https://github.com/wubaiqing/java/tree/master/source/spring-cloud)、15 年是 PHP-高级工程师晋升为研发经理。**能带领服务端团队，进行跨部门有效沟通**。
 
 ### 产品领域
 

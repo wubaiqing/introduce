@@ -34,7 +34,7 @@
 
 熟悉**微前端**技术，如 Webpack5-Module-Federation、QianKun、Single-SPA，2019 年已**正式商用**。
 
-从 2018 年推广 Yarn 以及之后的 Yarn PNP 在到内存扩充为虚拟硬盘（RAM-Disk），让构建前端项目时间提升了 **3 倍以上**。
+从 2018 年推广 Yarn 以及之后的 Yarn PNP 在到内存扩充为虚拟硬盘（RAM-Disk），让前端项目构建时间提升了 **3 倍以上**。
 
 对持续集成有非常丰富的实操经验，熟练的使用 Azure Pipelines、Travis、Circle 等平台。
 

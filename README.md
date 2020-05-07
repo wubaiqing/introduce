@@ -95,7 +95,7 @@
 
 **前端架构：**
 
-![](./images/前端架构图-升级版.png.png)
+![](./images/前端架构图.png)
 
 **团队技术栈：**
 
@@ -126,6 +126,10 @@ PC 端：Vue + Vue-Router + Vuex + Vue-CLI + 自研 CLI 路由插件 + Lodash + 
 2. 规划自研类产品，在不依赖产品经理的情况下，输出产品和技术的方案，调研业界竞品。
 3. 负责移动端 H5 试点。
 4. 组织分享，共计 53 次邮件式分享，1 次演讲式分享，1 次 COO 的演示汇报。
+
+**团队技术栈：**
+
+PC 端：React + Redux + D3.js + Three.js + Less + Axios + Immutable + CountUp + Redux-Saga + React-Router + React-Ace + React-Color + React-ID-Swiper + SortableContainer + Dom-To-Image Webpack + React Create App + Normalize
 
 **主要系统：**  
 

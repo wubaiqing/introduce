@@ -93,13 +93,13 @@
 3. 负责前端领域新技术调研以及商用上的落地。
 4. 组织分享，共计 91 次演讲式分享 8 次项目及演讲，34 次邮件式分享。
 
-**前端基础架构：**
+**前端架构：**
 
 ![](./images/前端架构图-升级版.png.png)
 
 **团队技术栈：**
 
-PC 端：Vue+Vue-Router+Vuex+Vue-CLI+自研 CLI 路由插件+Lodash+Normalize+core-js+Element-UI/Ant-Design-Vue+Prettier+ESLint+Airbnb+CommitLint+Less+LintStaged+Mock
+PC 端：Vue + Vue-Router + Vuex + Vue-CLI + 自研 CLI 路由插件 + Lodash + Normalize + core-js + Element-UI/Ant-Design-Vue + Prettier + ESLint + Airbnb + CommitLint + Less + LintStaged + Mock
 
 **主要系统：**
 

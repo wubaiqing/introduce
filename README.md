@@ -10,11 +10,11 @@
 
 目前工作 11 年，现团队中工作 `9` 年，2015 年在 200 人的研发团队晋升到研发经理（P7），现在是禧云信息的前端负责人。一线带队经验 5 年，期间培养了**三名 P5 级工程师**，**五名 P6 级工程师**。
 
-擅长**前端基础建设**打造**开源项目**禧云前端生态，创造了**以注解的方式声明路由**，并把思路提供给 Umi 作者。
+擅长**前端基础建设**打造**开源项目**禧云前端生态，创造了**以注解的方式声明路由**。
 
 对标蚂蚁**中台体系建设**有着非常丰富的作战经验。擅长从产品、研发、运营角度考虑问题和解决问题。深度参与业务，能独立完成人员招聘、团队建设、产品研发、项目管理等工作。
 
-2018-至今 维护开源项目前端**每日时报**，目前 GitHub 1.5K Star（更新 340 天）；  
+2018-至今 维护开源项目前端**每日时报**，目前 GitHub 1.5K Star（更新 347 天）；  
 2013 博客园-推荐博客（排名 116）。
 
 ## 工作技能
@@ -28,13 +28,11 @@
 
 熟练掌握**前端工程化**、UI 配置化（Low Code）、组件平台化、前端规范化、工程测试、Vue 体系、React 体系、VSCode 插件开发、脚手架开发。
 
-（重点部分）
-
-熟悉 Lerna 多包管理以及 NPM 发包流程，在 NPM 官方发布了 **30 多个包**。
+熟悉 Lerna 多包管理以及 NPM 发包流程，在 NPM 官方发布近 **30 多个包**。
 
 熟悉**微前端**技术，如 Webpack5-Module-Federation、QianKun、Single-SPA，2019 年已**正式商用**。
 
-从 2018 年推广 Yarn 以及之后的 Yarn PNP 在到内存扩充为虚拟硬盘（RAM-Disk），让前端项目构建时间提升了 **3 倍以上**。
+从 2018 年推广 Yarn 以及之后的 Yarn PNP 在到内存扩充为虚拟硬盘（RAM-Disk），让前端项目构建时间提升了 **6 倍以上**。
 
 对持续集成有非常丰富的实操经验，熟练的使用 Azure Pipelines、Travis、Circle 等平台。
 
@@ -42,7 +40,7 @@
 
 开源项目贡献过 Laravel5.4、Yii2、Yii1-Gii、 Ruby-China。**可以把服务端思想带入前端**。
 
-熟悉编译性语言和脚本语言，如 [PHP 7.1](https://github.com/wubaiqing/meipin)、NodeJS、[Java](https://github.com/wubaiqing/java)、[Ruby On Rails](https://github.com/wubaiqing/mayitemai)、Python2、[Objective-C](https://github.com/wubaiqing/privilege/tree/master/privilege)、[Spring Boot](https://github.com/wubaiqing/java/tree/master/source/spring-boot)、[Spring Cloud](https://github.com/wubaiqing/java/tree/master/source/spring-cloud)、2015 年是 PHP-高级工程师晋升为研发经理。
+熟悉编译性语言和脚本语言，如 [PHP 7.1](https://github.com/wubaiqing/meipin)、NodeJS、[Java](https://github.com/wubaiqing/java)、[Ruby On Rails](https://github.com/wubaiqing/mayitemai)、Python2、[Objective-C](https://github.com/wubaiqing/privilege/tree/master/privilege)、[Spring Boot](https://github.com/wubaiqing/java/tree/master/source/spring-boot)、[Spring Cloud](https://github.com/wubaiqing/java/tree/master/source/spring-cloud)，**2015 年是 PHP-高级工程师晋升为研发经理**。
 
 ### 产品领域
 
@@ -56,7 +54,7 @@
 
 开源项目贡献过 iTerm2 Extend（Search Plugin）。
 
-14 年开始接触 Docker，同年发布应用到 [Docker Hub](https://github.com/wubaiqing/docker-shadowsocks-python)。
+14 年接触 Docker，同年发布应用到 [Docker Hub](https://github.com/wubaiqing/docker-shadowsocks-python)。
 
 了解 Vagrant、Docker Compose、Kubernetes、ServerLess 等技术。
 
@@ -76,7 +74,7 @@
 
 ## 工作经验
 
-9 年期间一直在一个研发团队属于餐饮行业，是受疫情影响最大的行业之一。
+9 年期间一直在一个研发团队工作。
 
 （标题右侧）
 
@@ -90,10 +88,14 @@
 
 职责：
 
-1. 前端团队组建，人员招聘和培养，共计 9 人。
+1. 前端团队组建，人员招聘和培养，带领 9 人前端团队。
 2. 前端基础建设，如规范制度、文档服务、基础框架、物料库、前后端协同等核心模块开发和指导。
 3. 新技术调研以及商用落地。
 4. 组织分享，共计 91 次演讲式分享，8 次项目及演讲，34 次邮件式分享。
+
+前端基础架构：
+![](./images/架构图2.png)
+
 
 工作描述：
 

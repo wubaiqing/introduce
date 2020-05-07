@@ -129,7 +129,7 @@ PC 端：Vue + Vue-Router + Vuex + Vue-CLI + 自研 CLI 路由插件 + Lodash + 
 
 **团队技术栈：**
 
-PC 端：React + Redux + D3.js + Three.js + Less + Axios + Immutable + CountUp + Redux-Saga + React-Router + React-Ace + React-Color + React-ID-Swiper + SortableContainer + Dom-To-Image Webpack + React Create App + Normalize
+PC 端：React + Redux + D3.js + Three.js + Less + Axios + Immutable + CountUp + Redux-Saga + React-Router + React-Ace + React-Color + React-ID-Swiper + SortableContainer + Dom-To-Image Webpack + React Create App + Normalize。
 
 **主要系统：**  
 
@@ -143,13 +143,17 @@ PC 端：React + Redux + D3.js + Three.js + Less + Axios + Immutable + CountUp +
 
 本地生活服务电子商城。
 
+**公司简介：**  
+见证了初创到公司已上市；电子商务的领先者和开创者，业务覆盖了全国 350 个城市，在 150 多个城市有本地的服务团队，为 30 多万家商户提供过服务。
+
 **职责：**
 
-1. 电影频道负责人，带领 3 名 PHP 工程师对常规性需求进行业务开发。
+1. 电影频道核心研发人员，后晋升为电影频道负责人。
+2. 负责商品管理等核心业务的开发。
 
 **主要系统：**  
 
-**2013 年 2 月至 2015 年 8 月 电影频道，** 主要围绕着在线选座，影片数据的同步；  
+**2013 年 2 月至 2015 年 8 月 电影频道，** 主要围绕着在线选座，影片的数据同步；  
 **2011 年 3 月 窝窝团，** CMS 管理后台，负责核心的商品管理、商品标签等核心业务。
 
 ### 2010 年 3 月 2011 年 3 月 北京一家网有限公司
@@ -158,15 +162,30 @@ PC 端：React + Redux + D3.js + Three.js + Less + Axios + Immutable + CountUp +
 
 团购导航
 
-职责：基于百度地图开发附近团购，CMS 日常维护、配合 SEO 进行搜索引擎优化。
+**公司简介：**  
+
+收录了国内近千家团购网站的每日活动信息，提供团购导航以及聚合式的内容列表，方便用户比较选择出最为称心的团购活动。
+
+**职责：**
+
+1. 基于百度地图开发附近团购；
+2. CMS 日常维护；
+3. 配合 SEO 进行搜索引擎优化；
 
 ### 2009 年 8 月 2010 年 2 月 北京辛巴荣耀网络科技有限公司
 
-#### PHP-工程师助力
+#### PHP-工程师助理
 
 企业建站
 
-职责：使用 Discuz UCenter、ECShop、PHPCMS、DEDECMS 做企业产品的二次开发。
+**公司简介：**  
+
+帮助中小微企业进行快速建站服务。
+
+**职责：**
+
+1. 协助 PHP 工程师，使用 CSS 开发页面的布局；
+2. 三个月以后，使用 Discuz UCenter、ECShop、PHPCMS、DEDECMS 等开源产品做二次开发；
 
 ## 教育背景
 

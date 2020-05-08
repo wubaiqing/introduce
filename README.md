@@ -42,7 +42,7 @@
 
 开源项目贡献过 Laravel5.4、Yii2、Yii1-Gii、Ruby-China，**可以把服务端思想带入前端**。
 
-熟悉编译性语言和脚本语言，如 [PHP 7.1](https://github.com/wubaiqing/meipin)、NodeJS、[Java](https://github.com/wubaiqing/java)、[Ruby On Rails](https://github.com/wubaiqing/mayitemai)、Python2、[Objective-C](https://github.com/wubaiqing/privilege/tree/master/privilege)、[Spring Boot](https://github.com/wubaiqing/java/tree/master/source/spring-boot)、[Spring Cloud](https://github.com/wubaiqing/java/tree/master/source/spring-cloud)，**2015 年是 PHP-高级工程师晋升为研发经理**。
+熟悉编译性语言和脚本语言，如 [PHP 7.1](https://github.com/wubaiqing/meipin)、NodeJS、[Java](https://github.com/wubaiqing/java)、[Ruby On Rails](https://github.com/wubaiqing/mayitemai)、Python2、[Objective-C](https://github.com/wubaiqing/privilege/tree/master/privilege)、[Spring Boot](https://github.com/wubaiqing/java/tree/master/source/spring-boot)、[Spring Cloud](https://github.com/wubaiqing/java/tree/master/source/spring-cloud)，**2015 年由 PHP-高级工程师晋升为研发经理**。
 
 ### 产品领域
 
@@ -50,7 +50,7 @@
 
 善于先有场景，再有故事，通过故事拆解出信息架构，菜单结构和功能点，最后归入某个版本。
 
-了解《上市审计》、《加计扣除》、《专利申请》、《著作权申请》相关的流程。
+了解《上市审计》《加计扣除》《专利申请》《著作权申请》相关的流程。
 
 ### 工具领域
 
@@ -64,11 +64,11 @@
 
 ## 特别之处
 
-在关键岗位必有**备份**，善于从企业角度考虑**可替代成本**和**流动成本**。能站在未来看今天，帮助业务和团队活好未来，善于挖掘**不希望**拥抱问题，落实为团队共识。
+在关键岗位必有**备份**，善于从企业角度考虑**可替代成本**和**流动成本**。能够站在未来看今天，善于挖掘问题落实团队共识。
 
 具备良好的[写作和排版功底](https://xiyun-international.github.io/java-unit-docs/04-complex/01-optimize)，有项目周报、RFCS、技术白皮书、项目交接、RCA 文档的写作习惯；
 
-善于被动学习和共享自己掌握的技术，熟练的掌握 [Keynote](http://note.youdao.com/noteshare?id=33985951c21d2d2898c8190412dc1219)，有面对 40 人以上跟 CEO、CTO、运营副总裁汇报的演讲经验。
+善于被动学习和共享自己掌握的技术，熟练地掌握 [Keynote](http://note.youdao.com/noteshare?id=33985951c21d2d2898c8190412dc1219)，有面对 40 人以上跟 CEO、CTO、运营副总裁汇报的演讲经验。
 
 责任心强、严谨、认真、仔细；每一个工作过的团队，包括公司上下对我的技术认可度和职业道德的评价都很高。
 
@@ -104,10 +104,10 @@ PC 端：Vue + Vue-Router + Vuex + Vue-CLI + 自研 CLI 路由插件 + Lodash + 
 **主要系统：**
 
 **2019 年 7 月 禧鹊，** ERP 系统，主要负责商机、项目、设备的创建和审批的流程控制；  
-**2019 年 3 月 前端生态，** 前端的提效工具含 UI、CLI、监控、脚手架、VSCode 插件、区块平台、注解路由、微前端等；  
+**2019 年 3 月 前端生态，** 前端的提效工具包含 UI、CLI、监控、脚手架、VSCode 插件、区块平台、注解路由、微前端等；  
 **2019 年 3 月 鹊台，** 设备的资产管理平台，负责设备的库存、发货、追溯、调拨等，管理了 7W 多台设备，帮助公司减少设备丢失的损失；  
 **2018 年 8 月 渠道商，** 对外的 ERP 系统，属于共创平台，让二三线具备谈判学校资格的渠道商入驻，从而赚取佣金返佣；  
-**2018 年 3 月 运营支撑平台，** 针对于商家活动的一个管理平台，如是否开通刷脸付、支付通道、支付渠道的切换、打造一体话的管理平台；  
+**2018 年 3 月 运营支撑平台，** 针对于商家活动的一个管理平台，如是否开通刷脸付、支付通道、支付渠道的切换、打造一体化的管理平台；  
 **2017 年 10 月 商家中心，** 是给商家使用的管理平台，可以实时看到食堂的销售金额，对商家门店和支付配置做统一的管理；  
 **2017 年 7 月 太空桥，** 硬件设备远程管控平台，通过这个平台，控制远端的设备，比如远程设备的桌面、应用远程安装、监控和策略的管理。
 
@@ -131,7 +131,7 @@ PC 端：Vue + Vue-Router + Vuex + Vue-CLI + 自研 CLI 路由插件 + Lodash + 
 
 PC 端：React + Redux + D3.js + Three.js + Less + Axios + Immutable + CountUp + Redux-Saga + React-Router + React-Ace + React-Color + React-ID-Swiper + SortableContainer + Dom-To-Image Webpack + React Create App + Normalize。
 
-**主要系统：**  
+**主要系统：**
 
 **2017 年 2 月 数据大屏，** 通过图形化界面快速搭建可视化监控大屏，提供丰富的可视化数据组件，满足业务监控、会议展览、投资咨询等多种业务的展示需求，尤其满足 PC 浏览器或者手机浏览器访问下的自适应布局；  
 **2016 年 10 月 魔镜，** 竞品分析平台，竞对的各个城市的各种经营数据，如：门店的地址、电话、用户活跃度做对比和分析，从而影响商业策略；  
@@ -151,7 +151,7 @@ PC 端：React + Redux + D3.js + Three.js + Less + Axios + Immutable + CountUp +
 1. 电影频道核心研发人员，后晋升为电影频道负责人。
 2. 负责商品管理等核心业务的开发。
 
-**主要系统：**  
+**主要系统：**
 
 **2013 年 2 月至 2015 年 8 月 电影频道，** 主要围绕着在线选座，影片的数据同步；  
 **2011 年 3 月 窝窝团，** CMS 管理后台，负责核心的商品管理、商品标签等核心业务。
@@ -162,7 +162,7 @@ PC 端：React + Redux + D3.js + Three.js + Less + Axios + Immutable + CountUp +
 
 团购导航
 
-**公司简介：**  
+**公司简介：**
 
 收录了国内近千家团购网站的每日活动信息，提供团购导航以及聚合式的内容列表，方便用户比较选择出最为称心的团购活动。
 
@@ -178,7 +178,7 @@ PC 端：React + Redux + D3.js + Three.js + Less + Axios + Immutable + CountUp +
 
 企业建站
 
-**公司简介：**  
+**公司简介：**
 
 帮助中小微企业进行快速建站服务。
 

@@ -68,7 +68,7 @@
 
 具备良好的[写作和排版功底](https://xiyun-international.github.io/java-unit-docs/04-complex/01-optimize)，有项目周报、RFCS、技术白皮书、项目交接、RCA 文档的写作习惯；
 
-善于被动学习和共享自己掌握的技术，熟练地掌握 [Keynote](http://note.youdao.com/noteshare?id=33985951c21d2d2898c8190412dc1219)，有面对 40 人以上跟 CEO、CTO、运营副总裁汇报的演讲经验。
+善于被动学习和共享自己掌握的技术，熟练地掌握 [Keynote](http://note.youdao.com/noteshare?id=33985951c21d2d2898c8190412dc1219)，有面对 40 人以上跟 CTO、COO、运营副总裁汇报的演讲经验。
 
 责任心强、严谨、认真、仔细；每一个工作过的团队，包括公司上下对我的技术认可度和职业道德的评价都很高。
 
